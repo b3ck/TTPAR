@@ -23,8 +23,7 @@ function App() {
     <div className="App" style={{ backgroundColor: 'black' }}>
       <img
         src={`https://static-cdn.jtvnw.net/previews-ttv/live_user_${user}-440x248.jpg`}
-        alt="User Image"
-        style={{ maxWidth: '95vw', maxHeight: '95vh' }}
+        alt="Thumbnail Preview"
       />
     </div>
   );
