@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,iBACF,CAEF,KACE,qBACF,CAEA,IACE,UAAU,CACV,WAAW,CACX,cAAc,CACd,cACF","file":"main.1c15f201.chunk.css","sourcesContent":[".App {\n    text-align: center;\n  }\n\nbody {\n  background-color: #000;\n}\n\nimg{\n  width:auto;\n  height:auto;\n  max-width:100%;\n  max-height:90%;\n}"]}
