@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,iBACF,CAEF,KACE,qBACF,CAEA,IACE,cAAe,CACf,eACF","file":"main.ce9712da.chunk.css","sourcesContent":[".App {\n    text-align: center;\n  }\n\nbody {\n  background-color: #000;\n}\n\nimg {\n  max-width: 95vw;\n  max-height: 95vh;\n}"]}
