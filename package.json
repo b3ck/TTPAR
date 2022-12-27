@@ -2,7 +2,7 @@
   "name": "twitch-preview-image",
   "version": "1.0.0",
   "description": "A React app that shows and refreshes your twitch preview based on URL params",
-  "homepage": "https://b3ck.github.io/ttpar",
+  "homepage": "https://b3ck.github.io/TTPAR",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
