@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TTPAR/static/css/main.ce9712da.chunk.css",
+    "main.css": "/TTPAR/static/css/main.1c15f201.chunk.css",
     "main.js": "/TTPAR/static/js/main.b53e2df8.chunk.js",
     "main.js.map": "/TTPAR/static/js/main.b53e2df8.chunk.js.map",
     "runtime-main.js": "/TTPAR/static/js/runtime-main.fdba8acf.js",
@@ -8,15 +8,15 @@
     "static/js/2.0cf6ee13.chunk.js": "/TTPAR/static/js/2.0cf6ee13.chunk.js",
     "static/js/2.0cf6ee13.chunk.js.map": "/TTPAR/static/js/2.0cf6ee13.chunk.js.map",
     "index.html": "/TTPAR/index.html",
-    "precache-manifest.70183d69761be676ecada60f0584ff69.js": "/TTPAR/precache-manifest.70183d69761be676ecada60f0584ff69.js",
+    "precache-manifest.a9f1403a2aa4eb6a92e262d96a2b48a3.js": "/TTPAR/precache-manifest.a9f1403a2aa4eb6a92e262d96a2b48a3.js",
     "service-worker.js": "/TTPAR/service-worker.js",
-    "static/css/main.ce9712da.chunk.css.map": "/TTPAR/static/css/main.ce9712da.chunk.css.map",
+    "static/css/main.1c15f201.chunk.css.map": "/TTPAR/static/css/main.1c15f201.chunk.css.map",
     "static/js/2.0cf6ee13.chunk.js.LICENSE.txt": "/TTPAR/static/js/2.0cf6ee13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fdba8acf.js",
     "static/js/2.0cf6ee13.chunk.js",
-    "static/css/main.ce9712da.chunk.css",
+    "static/css/main.1c15f201.chunk.css",
     "static/js/main.b53e2df8.chunk.js"
   ]
 }
