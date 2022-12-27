@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACI,iBACF,CAEF,KACE,qBACF","file":"main.ccdfcae9.chunk.css","sourcesContent":[".App {\n    text-align: center;\n  }\n\nbody {\n  background-color: #000;\n}"]}
