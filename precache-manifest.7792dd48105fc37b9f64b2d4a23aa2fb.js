@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39a87edb6fc9e3d1cc1f46a8a73eac3b",
+    "revision": "3eab1688604dde63e2ff05d007acd1f0",
     "url": "/TTPAR/index.html"
   },
   {
-    "revision": "9dd83e1171d81ec65e66",
+    "revision": "5b8ce0d884427aaa7813",
     "url": "/TTPAR/static/css/main.040fdbbd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TTPAR/static/js/2.0cf6ee13.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9dd83e1171d81ec65e66",
-    "url": "/TTPAR/static/js/main.904f51a9.chunk.js"
+    "revision": "5b8ce0d884427aaa7813",
+    "url": "/TTPAR/static/js/main.94cb3fa6.chunk.js"
   },
   {
     "revision": "6c77eff562e2333d40d7",
